@@ -1,0 +1,33 @@
+{
+	"id": "163be2ab-0c8f-44f7-8537-2a3f3d903c4e",
+	"values": [
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bookfictionId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FictOrderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-12-07T03:23:33.879Z",
+	"_postman_exported_using": "Postman/10.20.6"
+}
